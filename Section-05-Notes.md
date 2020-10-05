@@ -1,0 +1,7 @@
+ - [ ] Section 05: Html and CSS 0/6 | 52min
+	 - [ ] 20. Html Introduction | 6min
+	 - [ ] 21. CSS Introduction | 5min
+	 - [ ] 22. Tachyons CSS Library | 7min
+	 - [ ] 23. Generating Html and CSS | 12min
+	 - [ ] 24. Transforming Data into Html and CSS | 15min
+	 - [ ] 25. Html & CSS Exercise Review | 6min
